@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abo Baker Alkadri</h1>
-<h3 align="center">A Junior Full-stack Developer with focus on JavaScript & its frameworks React and Node.js.</h3>
+<h1>Hi 👋, I'm Abo Baker Alkadri</h1>
+<hr>
+<h3>A Junior Full-stack Developer with focus on JavaScript & its frameworks React and Node.js.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abobakeralkadri&label=Profile%20views&color=0e75b6&style=flat" alt="abobakeralkadri" /> </p>
 
