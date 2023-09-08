@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Abo Baker Alkadri</h1>
 <h3>A Junior Full-stack Developer with focus on JavaScript & its frameworks React and Node.js.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abobakeralkadri&label=Profile%20views&color=0e75b6&style=flat" alt="abobakeralkadri" /> </p>
-
 - 🌱 I’m currently learning **React and NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://dribbble.com/AboBaker4/shots](https://dribbble.com/AboBaker4/shots)
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abobakeralkadri&show_icons=true&locale=en" alt="abobakeralkadri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abobakeralkadri&" alt="abobakeralkadri" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abobakeralkadri&label=Profile%20views&color=0e75b6&style=flat" alt="abobakeralkadri" /> </p>
