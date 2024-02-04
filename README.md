@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Abo Baker Alkadri</h1>
-<h3>A Junior Full-stack Developer with focus on JavaScript & its frameworks React and Node.js.</h3>
+<h3>Enthusiastic Software Developer with a passion for building responsive websites and professional user-friendly applications that enhance the online presence of individuals and businesses. Committed to utilizing technical skills to create user-friendly and impactful digital experiences.</h3>
 
 - 🌱 I’m currently learning **React and NodeJs**
 
